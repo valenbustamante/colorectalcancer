@@ -1,0 +1,21 @@
+,Aplasia y otras anemias (D60-D64),Enfermedades del hígado (K70-K77),Enfermedades del peritoneo (K65-K67),Enfermedades endocrinas (E00-E35),Enfermedades nutricionales (E40-E68),Enfermedades respiratorias inferiores crónicas (J40-J47),Gripe y Neumonía (J09-J19),Insuficiencia renal (N17-N19),Neoplasias malignas (C00-C97),Otras enfermedades bacterianas (A30-A49),Otras enfermedades de los intestinos (K55-K63),Otras enfermedades del sistema digestivo (K90-K93),Otras enfermedades del sistema respiratorio (J95-J99),Otras enfermedades del sistema urinario (N30-N39),Otras enfermedades respiratorias intersticiales (J80-J84),Otros trastornos del sistema nervioso (G90-G99),Síntomas generales (R50-R69),Síntomas que revelan una enfermedad circulatoria o respiratoria (R00-R09),Trastornos metabólicos (E70-E90),Valores anormales de los parámetros sanguíneos (R70-R79)
+Aplasia y otras anemias (D60-D64),0,0,0,0,119,0,0,0,1161,0,0,188,115,0,0,0,220,0,0,0
+Enfermedades del hígado (K70-K77),0,0,0,0,0,0,0,0,682,0,0,0,0,0,0,0,104,0,0,0
+Enfermedades del peritoneo (K65-K67),0,0,0,0,0,0,0,0,2427,835,887,0,105,0,0,0,620,0,0,0
+Enfermedades endocrinas (E00-E35),0,0,0,0,0,0,0,0,611,0,0,0,131,0,0,0,106,0,0,0
+Enfermedades nutricionales (E40-E68),119,0,0,0,0,0,0,0,1485,0,0,0,218,0,0,0,241,0,160,0
+Enfermedades respiratorias inferiores crónicas (J40-J47),0,0,0,0,0,0,0,0,183,0,0,0,0,0,0,0,0,0,0,0
+Gripe y Neumonía (J09-J19),0,0,0,0,0,0,0,0,767,126,0,0,273,0,0,0,112,0,0,0
+Insuficiencia renal (N17-N19),0,0,0,0,0,0,0,0,800,0,0,0,114,0,0,0,154,0,123,0
+Neoplasias malignas (C00-C97),1161,682,2427,611,1485,183,767,800,0,2250,2506,1163,5796,391,737,370,7542,1203,1337,106
+Otras enfermedades bacterianas (A30-A49),0,0,835,0,0,0,126,0,2250,0,702,0,0,131,0,0,162,0,0,0
+Otras enfermedades de los intestinos (K55-K63),0,0,887,0,0,0,0,0,2506,702,0,0,110,0,0,0,520,0,145,0
+Otras enfermedades del sistema digestivo (K90-K93),188,0,0,0,0,0,0,0,1163,0,0,0,0,0,0,0,652,0,0,0
+Otras enfermedades del sistema respiratorio (J95-J99),115,0,105,131,218,0,273,114,5796,0,110,0,0,0,214,0,489,217,0,0
+Otras enfermedades del sistema urinario (N30-N39),0,0,0,0,0,0,0,0,391,131,0,0,0,0,0,0,122,0,0,0
+Otras enfermedades respiratorias intersticiales (J80-J84),0,0,0,0,0,0,0,0,737,0,0,0,214,0,0,0,0,0,0,0
+Otros trastornos del sistema nervioso (G90-G99),0,0,0,0,0,0,0,0,370,0,0,0,0,0,0,0,0,0,0,0
+Síntomas generales (R50-R69),220,104,620,106,241,0,112,154,7542,162,520,652,489,122,0,0,0,197,184,0
+Síntomas que revelan una enfermedad circulatoria o respiratoria (R00-R09),0,0,0,0,0,0,0,0,1203,0,0,0,217,0,0,0,197,0,0,0
+Trastornos metabólicos (E70-E90),0,0,0,0,160,0,0,123,1337,0,145,0,0,0,0,0,184,0,0,106
+Valores anormales de los parámetros sanguíneos (R70-R79),0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0,106,0
